@@ -1,6 +1,6 @@
 public class Fundament : IFundament
 {
-    public void CheckOddOrEven(double a, double b)
+    public void CheckOddOrEven(double a)
     {
         throw new NotImplementedException();
     }
