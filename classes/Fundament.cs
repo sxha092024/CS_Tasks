@@ -1,6 +1,6 @@
 public class Fundament : IFundament
 {
-    public void CheckOddOrEven()
+    public void CheckOddOrEven(double a, double b)
     {
         throw new NotImplementedException();
     }
@@ -53,4 +53,6 @@ public class Fundament : IFundament
         }
         return n;
     }
+
+
 }
