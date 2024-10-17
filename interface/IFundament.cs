@@ -1,7 +1,7 @@
 public interface IFundament
 {
     /// <summary>
-    /// Sums two numbers together, in void, we can specify if these numbers are integers, doubles or long
+    /// Sums two numbers together that we recieve using the Console.ReadLine() method, in void, we can specify if these numbers are integers, doubles or long
     /// </summary>
     void SumTwoNumbers();
 
