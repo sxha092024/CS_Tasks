@@ -16,7 +16,7 @@ public interface IFundament
     /// <summary>
     /// check whether a number is even (divisible by two) or odd
     /// </summary>
-    void CheckOddOrEven(double a, double b);
+    void CheckOddOrEven(double a);
 
     /// <summary>
     /// A method that returns a interesting fact, that the user of the program can define as a parameter argument
